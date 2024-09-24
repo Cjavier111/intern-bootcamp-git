@@ -17,3 +17,5 @@ If you get lost in your terminal, the following will help you:
 ## Acknowledgment
 
 This is an extension of <https://github.com/github-fun> and <https://github.com/AICoE/workshop-intern-bootcamp-git>
+
+Link the other repository: https://github.com/Cjavier111/CS391-Repo.git
